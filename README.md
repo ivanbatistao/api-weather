@@ -4,9 +4,9 @@ This project was done as part of my practice of JavaScript + React, HTML & CSS. 
 
 This App consumes and [The Weather Api](http://api.openweathermap.org) and allows you to find the current climate of cities, countries, etc. In there you will be able to find a search bar in which you can type the name of a the city, country... and if found it will appear bellow.
 
-Check it out: PokeShow
+Check it out: [Api-Weather](https://api-weather-b0f1d.web.app)
 
-You can also go and check the [The Components and their respectives CSS files]().
+You can also go and check the [The Components and their respectives CSS files](https://github.com/ivanbatistao/api-weather/tree/main/src/components).
 
 Thanks for taking the time to check this project.
 
