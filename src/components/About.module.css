@@ -1,0 +1,10 @@
+.description {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.p {
+    width: 70%;
+    margin-top: 60px;
+}

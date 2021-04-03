@@ -1,0 +1,31 @@
+.mainParentContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px;
+}
+
+.wapperInputButtom {
+    background-color: thistle;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.input, .buttom {
+    margin: 0 5px;
+    border-radius: 5px;
+}
+
+.input {
+    outline: none;
+}
+
+.buttom {
+    font-weight: bold;
+    background-color: thistle;
+}
+
+.buttom:hover {
+    box-shadow: 2px 1px 1px grey;
+    cursor: pointer;
+}

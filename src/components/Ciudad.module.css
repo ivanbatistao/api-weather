@@ -1,0 +1,32 @@
+.city {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    border: 2px solid thistle;
+    border-radius: 25px;
+    width: 300px;
+    margin-top: 100px;
+}
+
+.info {
+    margin-bottom: 20px;
+}
+
+.displayNoCities {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+    
+.noCities {
+    margin-top: 80px;
+    width: 50%
+}

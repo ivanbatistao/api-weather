@@ -1,0 +1,17 @@
+.containerCards {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.noCities {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.noCitiesParagraph {
+    width: 70%;
+    margin-top: 60px;
+}
