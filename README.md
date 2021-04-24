@@ -1,4 +1,4 @@
-# Api Weather
+# WeatherApp
 
 This project was done as part of my practice of JavaScript + React, HTML & CSS. I used pure React, HTML5, CSS3 (you'll see a bit of flex), Git and VSCode.
 
